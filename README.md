@@ -2,28 +2,28 @@
 This SQL project establishes the "Blogdb" database with interconnected tables for users, posts, comments, and categories. It enables efficient retrieval of insights, such as posts with comments, user post counts, and recent comments, showcasing a structured design tailored for a robust blogging platform.
 
 # Features:
-1.Blog Database: Establishes a comprehensive SQL database named "Blogdb" with tables for users, posts, comments, and categories.
-2.Interconnected Tables: Enforces relationships between users, posts, and comments for seamless data management.
-3.Insightful Queries: Includes various SQL queries for retrieving valuable information, such as posts with comments and authors, user post counts, and recent comments with post and user details.
-4.Category Curation: Introduces a "categories" table for categorizing blog posts, enhancing content organization.
+- **Blog Database:** Establishes a comprehensive SQL database named "Blogdb" with tables for users, posts, comments, and categories.
+- **Interconnected Tables:** Enforces relationships between users, posts, and comments for seamless data management.
+- **Insightful Queries:** Includes various SQL queries for retrieving valuable information, such as posts with comments and authors, user post counts, and recent comments with post and user details.
+- **Category Curation:** Introduces a "categories" table for categorizing blog posts, enhancing content organization.
 
 # Usage:
-1.Database Initialization:Create the "Blogdb" database and tables by running the provided SQL script.
-2.Querying Information:Utilize the SQL queries to extract insightful data, such as post and comment statistics, user details, and categorized posts.
+- **Database Initialization:** Create the "Blogdb" database and tables by running the provided SQL script.
+- **Querying Information:** Utilize the SQL queries to extract insightful data, such as post and comment statistics, user details, and categorized posts.
 
 # Dependencies:
 Requires a SQL database management system (e.g., MySQL) to execute the provided SQL script.
 Ensure proper SQL syntax compatibility with the chosen database system.
 
 # Getting Started:
-1.Clone Repository:
+- **Clone Repository:**
 git clone https://github.com/yourusername/blog-database.git
 cd blog-database
 
-2.Database Setup:
+- **Database Setup:**
 Execute the SQL script in your chosen database management system to initialize the "Blogdb" database.
 
-3.Explore Queries:
+- **Explore Queries:**
 Utilize the provided SQL queries to retrieve various insights from the blog database.
 
 # Contribution Guidelines:
