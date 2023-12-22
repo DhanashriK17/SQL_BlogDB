@@ -17,14 +17,14 @@ Ensure proper SQL syntax compatibility with the chosen database system.
 
 # Getting Started:
 - **Clone Repository:**
-git clone https://github.com/yourusername/SQL_BlogDB
-cd blog-database
+1.git clone https://github.com/yourusername/SQL_BlogDB
+2.cd BlogDB
 
 - **Database Setup:**
 Execute the SQL script in your chosen database management system to initialize the "Blogdb" database.
 
 - **Explore Queries:**
-Utilize the provided SQL queries to retrieve various insights from the blog database.
+Utilize the provided SQL queries to retrieve various insights from the BlodDB database.
 
 # Contribution Guidelines:
 Contributions and feedback are welcome. Please follow standard GitHub procedures for issue reporting and pull requests.
