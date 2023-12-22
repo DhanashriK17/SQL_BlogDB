@@ -17,7 +17,7 @@ Ensure proper SQL syntax compatibility with the chosen database system.
 
 # Getting Started:
 - **Clone Repository:**
-git clone https://github.com/yourusername/blog-database.git
+git clone https://github.com/yourusername/SQL_BlogDB
 cd blog-database
 
 - **Database Setup:**
